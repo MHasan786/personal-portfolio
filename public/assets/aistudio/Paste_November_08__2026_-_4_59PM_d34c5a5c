@@ -1,0 +1,1401 @@
+# ULTIMATE MASTER PROMPT
+## FUTURISTIC 3D FULL-STACK DEVELOPER PORTFOLIO
+
+### ROLE & OBJECTIVE
+
+Act as an elite team consisting of:
+
+- Senior Full-Stack Software Architect
+- Creative UI/UX Designer
+- React.js Specialist
+- Node.js & Express.js Backend Engineer
+- MongoDB Database Architect
+- 3D Web Developer
+- Motion Graphics Designer
+- Cybersecurity Engineer
+- SEO & Performance Specialist
+
+Your mission is to design and develop a world-class, futuristic, fully animated, 3D interactive, responsive Full-Stack Developer Portfolio.
+
+This is not a basic portfolio template.
+
+Create a unique, visually stunning, premium digital experience that represents me as a professional:
+
+**Frontend Developer | Full-Stack Developer**
+
+The portfolio must demonstrate my ability to build beautiful user interfaces, interactive websites, scalable backend systems, REST APIs, database-driven applications, and complete web solutions.
+
+The final website must combine outstanding visual design, advanced animations, professional content, real backend functionality, and clean software architecture.
+
+---
+
+# 1. TECHNOLOGY STACK
+
+Use the following technologies.
+
+### Frontend
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS
+- React Router DOM
+- Framer Motion / Motion
+- GSAP
+- Three.js
+- React Three Fiber
+- Drei
+- Lucide React
+- React Hook Form
+- Zod
+
+### Backend
+
+- Node.js
+- Express.js
+- RESTful APIs
+- JavaScript
+- JWT Authentication
+- bcrypt
+- Express Validator or Zod
+
+### Database
+
+- MongoDB
+- Mongoose ODM
+
+### Additional Technologies
+
+- Cloudinary for image storage
+- Nodemailer for emails
+- Multer for file uploads when required
+- Helmet for HTTP security
+- Express Rate Limit
+- CORS
+- dotenv
+- Git and GitHub
+
+### Deployment
+
+- Frontend: Vercel or Netlify
+- Backend: Render or another Node.js hosting provider
+- Database: MongoDB Atlas
+- Images: Cloudinary
+
+Use compatible stable dependencies. Do not introduce unnecessary libraries.
+
+IMPORTANT: Use JavaScript throughout the entire project. Do not use TypeScript or TSX.
+
+---
+
+# 2. VISUAL DESIGN DIRECTION
+
+Create a futuristic, cinematic, premium developer portfolio.
+
+Design inspiration:
+- Modern creative development agencies
+- Futuristic technology interfaces
+- Premium SaaS websites
+- Interactive 3D portfolios
+- High-end motion design websites
+
+### Main Design Style
+
+Dark Futuristic + 3D Animations.
+
+The design must feel:
+- Premium
+- Futuristic
+- Professional
+- Creative
+- Technologically advanced
+- Interactive
+- Elegant
+
+Avoid generic templates, boring layouts, excessive gradients, and unnecessary visual clutter.
+
+### Primary Dark Color Palette
+
+- Main Background: #070A13
+- Secondary Background: #101728
+- Card Background: #111C30
+- Primary Purple: #8B5CF6
+- Electric Blue: #3B82F6
+- Neon Cyan: #06B6D4
+- Accent Pink: #EC4899
+- Primary Text: #F8FAFC
+- Secondary Text: #94A3B8
+- Border: #26344D
+
+### Light Mode Palette
+
+- Main Background: #F8FAFC
+- Secondary Background: #FFFFFF
+- Card Background: #FFFFFF
+- Primary Purple: #7C3AED
+- Electric Blue: #2563EB
+- Accent Cyan: #0891B2
+- Primary Text: #0F172A
+- Secondary Text: #475569
+- Border: #E2E8F0
+
+### Design Rules
+
+- Build a centralized theme system.
+- Implement functional light and dark mode.
+- Persist the selected theme in localStorage.
+- Respect the system theme on the first visit.
+- Smooth theme transitions.
+- Maintain consistent spacing.
+- Use reusable design tokens.
+- Use modern typography.
+- Maintain perfect alignment.
+- Use consistent border radius.
+- Create beautiful interactive cards.
+- Apply subtle glassmorphism.
+- Use gradients only where visually appropriate.
+
+Typography:
+- Space Grotesk for headings.
+- Inter for body text.
+
+---
+
+# 3. COMPLETE WEBSITE STRUCTURE
+
+Build the following pages and sections.
+
+## PAGE 1: HOME
+
+### A. Navigation Bar
+
+Create a premium floating navigation bar.
+
+Include:
+- Personal logo / initials
+- Home
+- About
+- Skills
+- Services
+- Projects
+- Experience
+- Contact
+- Resume download
+- Theme toggle
+- Mobile navigation menu
+
+Features:
+- Sticky navbar
+- Transparent glass effect
+- Active section indicator
+- Smooth scrolling
+- Animated navigation links
+- Responsive mobile menu
+- Beautiful hover interactions
+
+The navigation should remain consistent across all public pages.
+
+### B. HERO SECTION
+
+Create an extraordinary cinematic hero section.
+
+Main introduction:
+
+"Hi, I'm [YOUR NAME]"
+
+Professional title:
+
+"Frontend Developer & Full-Stack Developer"
+
+Main tagline:
+
+"Transforming Ideas Into Interactive Digital Experiences."
+
+Supporting description:
+
+"I build modern, scalable, responsive, and visually engaging web applications using cutting-edge frontend and backend technologies."
+
+Include:
+
+- Large animated typography
+- Text reveal animation
+- Typewriter effect
+- Animated professional titles
+- Interactive 3D object
+- Floating technology icons
+- Dynamic gradient lighting
+- Particle background
+- Mouse-responsive 3D movement
+- Professional profile image or 3D avatar
+- Availability badge
+- Social media links
+- Download Resume button
+- Explore Projects button
+- Contact Me button
+
+### 3D Hero Experience
+
+Use React Three Fiber and Three.js.
+
+Create an original 3D visual element, such as:
+- Floating geometric shapes
+- Animated metallic spheres
+- Futuristic digital rings
+- Interactive abstract objects
+- Glowing particles
+- Depth-based motion
+
+Requirements:
+- Smooth rotation
+- Mouse interaction
+- Subtle parallax
+- Responsive canvas
+- Optimized rendering
+- Lazy loading where practical
+- Graceful fallback if WebGL is unavailable
+
+Do not sacrifice performance for unnecessary 3D effects.
+
+---
+
+## PAGE 2: ABOUT ME
+
+Create a professional personal introduction.
+
+Heading:
+
+"About Me"
+
+Include:
+
+- My professional biography
+- My development journey
+- Frontend development expertise
+- Full-stack development expertise
+- Problem-solving approach
+- Coding philosophy
+- Professional goals
+- What makes my development approach different
+
+Add animated statistics:
+
+- Projects Completed
+- Technologies Worked With
+- Years of Experience
+- Clients Served
+
+Use editable data. Never invent real experience, clients, or achievements.
+
+Add:
+- Animated counters
+- Profile image
+- Interactive cards
+- Scroll reveal animations
+
+---
+
+## PAGE 3: TECHNICAL SKILLS
+
+Create an advanced interactive technical skills section.
+
+### Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Next.js
+- Tailwind CSS
+- Bootstrap
+- Responsive Web Design
+- Framer Motion
+
+### Backend Development
+
+- Node.js
+- Express.js
+- REST APIs
+- Authentication
+- Authorization
+- Server-side Development
+
+### Database
+
+- MongoDB
+- Mongoose
+- MySQL
+- PostgreSQL
+
+### Programming Concepts
+
+- JavaScript ES6+
+- Object-Oriented Programming
+- Data Structures
+- Problem Solving
+- Asynchronous Programming
+
+### Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
+- npm
+- Cloudinary
+
+Design:
+
+- Interactive technology cards
+- Animated skill indicators
+- Category-based filters
+- Technology logos
+- Hover animations
+- Professional skill descriptions
+
+Only display technologies I actually know.
+
+Make skill data and proficiency levels editable from the admin dashboard.
+
+---
+
+## PAGE 4: SERVICES
+
+Create professional service cards.
+
+Services:
+
+1. Frontend Development
+2. Full-Stack Web Development
+3. React.js Development
+4. Next.js Development
+5. Responsive Web Design
+6. UI/UX Implementation
+7. Backend Development
+8. REST API Development
+9. Database Integration
+10. Website Optimization
+11. Website Maintenance
+
+Each card should contain:
+
+- Unique icon
+- Service title
+- Professional description
+- Technologies used
+- Animated hover effect
+- Learn More interaction
+- Contact CTA
+
+Make service cards visually consistent.
+
+---
+
+## PAGE 5: PROJECT PORTFOLIO
+
+Create a premium project showcase.
+
+Include project categories:
+
+- Frontend Projects
+- Full-Stack Projects
+- React Projects
+- Next.js Projects
+- E-commerce Projects
+- Web Applications
+
+Every project must contain:
+
+- Project title
+- Project image
+- Project description
+- Technologies used
+- Main features
+- GitHub URL
+- Live demo URL
+- Project category
+- Featured status
+
+Features:
+
+- Interactive project grid
+- Category filtering
+- Search functionality
+- Animated transitions
+- Hover image zoom
+- Project details page
+- Technology badges
+- GitHub button
+- Live demo button
+
+Create at least six clearly identified demonstration projects.
+
+Never use fabricated GitHub repositories, live websites, or testimonials.
+
+All project data must be fetched dynamically from the backend.
+
+---
+
+## PAGE 6: EXPERIENCE & EDUCATION
+
+Create an animated professional timeline.
+
+Sections:
+
+- Work Experience
+- Internships
+- Education
+- Certifications
+- Achievements
+
+Each item should include:
+
+- Position or qualification
+- Organization
+- Duration
+- Description
+- Technologies or relevant skills
+
+Use editable placeholder information where details are missing.
+
+---
+
+## PAGE 7: DEVELOPMENT PROCESS
+
+Show how I develop professional web applications.
+
+Create an animated workflow:
+
+01. Requirement Analysis
+02. Research & Planning
+03. UI/UX Design
+04. Frontend Development
+05. Backend Development
+06. Database Integration
+07. Testing & Debugging
+08. Deployment & Maintenance
+
+Use a modern interactive timeline with scroll-triggered animations.
+
+---
+
+## PAGE 8: TESTIMONIALS
+
+Create a professional testimonial section.
+
+Include:
+
+- Client feedback
+- Client name
+- Profile image
+- Job title
+- Project reference
+
+Use:
+- Animated testimonial slider
+- Navigation arrows
+- Smooth transitions
+- Responsive layout
+
+Use real testimonials only. Sample entries must be clearly identified as placeholders.
+
+---
+
+## PAGE 9: CONTACT
+
+Create a functional contact experience.
+
+Contact form fields:
+
+- Full Name
+- Email
+- Subject
+- Message
+
+Frontend requirements:
+
+- Form validation
+- Required field validation
+- Email validation
+- Loading state
+- Success notification
+- Error notification
+- Clear form after successful submission
+
+Backend requirements:
+
+- Validate all submitted data
+- Sanitize inputs
+- Apply rate limiting
+- Save messages to MongoDB
+- Send email notifications using Nodemailer
+- Return meaningful API responses
+- Handle errors securely
+
+Also display:
+
+- Professional email
+- Location
+- GitHub
+- LinkedIn
+- WhatsApp
+
+All personal information must be configurable.
+
+---
+
+# 4. GLOBAL 3D & ANIMATION SYSTEM
+
+The website must have a consistent motion design language.
+
+Use:
+
+- Framer Motion for React component animations.
+- GSAP for complex timelines.
+- React Three Fiber for interactive 3D experiences.
+- Drei for reusable Three.js helpers.
+
+### Animation Features
+
+1. Cinematic page loading animation.
+2. Smooth page transitions.
+3. Animated text reveals.
+4. Scroll-triggered section animations.
+5. Staggered card reveals.
+6. Interactive 3D hero.
+7. Floating geometric objects.
+8. Animated background particles.
+9. Magnetic button effects.
+10. Animated gradient lighting.
+11. Interactive project cards.
+12. Parallax scrolling.
+13. Animated navigation indicator.
+14. Smooth modal transitions.
+15. Animated counters.
+16. Theme transition effects.
+17. Subtle cursor interactions on desktop.
+
+### Animation Guidelines
+
+- Maintain smooth frame rates.
+- Avoid excessive motion.
+- Do not animate every element simultaneously.
+- Optimize Three.js rendering.
+- Disable or simplify complex effects on low-powered devices.
+- Support prefers-reduced-motion.
+- Ensure mobile devices receive a lighter experience.
+
+The website must remain professional and easy to navigate.
+
+---
+
+# 5. COMPLETE BACKEND ARCHITECTURE
+
+Build a separate Node.js and Express.js backend.
+
+Use a modular architecture.
+
+Backend responsibilities:
+
+- Authentication
+- Authorization
+- Project management
+- Skills management
+- Services management
+- Experience management
+- Education management
+- Testimonials management
+- Contact message management
+- File uploads
+- Portfolio settings
+
+### API Structure
+
+Create RESTful endpoints.
+
+Authentication:
+
+POST /api/auth/login
+POST /api/auth/logout
+GET /api/auth/me
+
+Projects:
+
+GET /api/projects
+GET /api/projects/:id
+POST /api/projects
+PUT /api/projects/:id
+DELETE /api/projects/:id
+
+Skills:
+
+GET /api/skills
+POST /api/skills
+PUT /api/skills/:id
+DELETE /api/skills/:id
+
+Services:
+
+GET /api/services
+POST /api/services
+PUT /api/services/:id
+DELETE /api/services/:id
+
+Experience:
+
+GET /api/experience
+POST /api/experience
+PUT /api/experience/:id
+DELETE /api/experience/:id
+
+Education:
+
+GET /api/education
+POST /api/education
+PUT /api/education/:id
+DELETE /api/education/:id
+
+Testimonials:
+
+GET /api/testimonials
+POST /api/testimonials
+PUT /api/testimonials/:id
+DELETE /api/testimonials/:id
+
+Contact:
+
+POST /api/contact
+GET /api/contact
+GET /api/contact/:id
+DELETE /api/contact/:id
+
+Settings:
+
+GET /api/settings
+PUT /api/settings
+
+Protect all administrative endpoints using authentication and authorization middleware.
+
+Public users must only access appropriate public resources.
+
+---
+
+# 6. MONGODB DATABASE DESIGN
+
+Use MongoDB Atlas with Mongoose.
+
+Create these database models:
+
+### Admin Model
+
+- name
+- email
+- passwordHash
+- role
+- createdAt
+- updatedAt
+
+### Project Model
+
+- title
+- slug
+- description
+- image
+- gallery
+- technologies
+- category
+- githubUrl
+- liveUrl
+- featured
+- published
+- createdAt
+- updatedAt
+
+### Skill Model
+
+- name
+- category
+- icon
+- proficiency
+- displayOrder
+
+### Service Model
+
+- title
+- description
+- icon
+- technologies
+- displayOrder
+- active
+
+### Experience Model
+
+- position
+- company
+- description
+- startDate
+- endDate
+- current
+- technologies
+
+### Education Model
+
+- qualification
+- institution
+- description
+- startDate
+- endDate
+
+### Testimonial Model
+
+- clientName
+- position
+- company
+- image
+- message
+- approved
+
+### ContactMessage Model
+
+- name
+- email
+- subject
+- message
+- status
+- createdAt
+
+### PortfolioSettings Model
+
+- fullName
+- professionalTitle
+- biography
+- location
+- email
+- socialLinks
+- resumeUrl
+- profileImage
+- availability
+- themeSettings
+
+Implement:
+
+- Schema validation
+- Proper indexes
+- Timestamps
+- Database connection utility
+- Consistent error handling
+- Pagination for large collections
+- Safe database queries
+
+Do not expose sensitive database information.
+
+---
+
+# 7. SECURE ADMIN DASHBOARD
+
+Create a separate admin interface.
+
+Route:
+
+/admin/login
+
+/admin/dashboard
+
+### Dashboard Overview
+
+Display:
+
+- Total Projects
+- Published Projects
+- Total Contact Messages
+- Unread Messages
+- Total Skills
+- Total Services
+
+### Project Management
+
+Admin can:
+
+- Create projects
+- Edit projects
+- Delete projects
+- Upload images
+- Add technologies
+- Set project categories
+- Publish or unpublish projects
+- Mark featured projects
+
+### Skills Management
+
+Admin can:
+
+- Add skills
+- Edit skills
+- Delete skills
+- Change proficiency
+- Organize categories
+
+### Content Management
+
+Admin can:
+
+- Update biography
+- Change profile information
+- Manage services
+- Update experience
+- Update education
+- Manage testimonials
+- Update social media links
+- Upload resume
+- Change availability status
+
+### Contact Management
+
+Admin can:
+
+- View contact messages
+- Open message details
+- Mark messages as read
+- Delete messages
+
+### Dashboard Design
+
+Use:
+
+- Modern sidebar
+- Responsive navigation
+- Analytics cards
+- Data tables
+- Search
+- Filters
+- Pagination
+- Confirmation dialogs
+- Toast notifications
+- Loading skeletons
+- Empty states
+
+The dashboard must be fully functional and connected to MongoDB.
+
+---
+
+# 8. AUTHENTICATION & SECURITY
+
+Implement secure administrator authentication.
+
+Requirements:
+
+- Password hashing using bcrypt.
+- Secure authentication.
+- HTTP-only cookies.
+- Proper session expiration.
+- Server-side authorization.
+- Role-based access where needed.
+- Protected admin routes.
+- Rate limiting.
+- Helmet security headers.
+- Strict CORS configuration.
+- Input validation.
+- File upload validation.
+- Secure error responses.
+- Environment variable protection.
+
+Prefer secure cookie-based authentication with properly configured session handling and CSRF protection for state-changing requests.
+
+Never store plaintext passwords.
+
+Never expose secrets in frontend JavaScript.
+
+Do not create a public admin registration endpoint.
+
+Provide a secure one-time admin creation or seeding procedure.
+
+---
+
+# 9. FILE UPLOAD SYSTEM
+
+Use Cloudinary for image and resume storage.
+
+Implement:
+
+- Profile image upload
+- Project image upload
+- Project gallery uploads
+- Testimonial image upload
+- Resume upload
+
+Requirements:
+
+- Validate file type.
+- Limit file size.
+- Validate file extensions and MIME types.
+- Restrict uploads to authorized admins.
+- Store uploaded asset URLs in MongoDB.
+- Handle upload errors.
+- Support image replacement and deletion.
+
+Do not store large image files directly inside MongoDB documents.
+
+---
+
+# 10. SEO & PERFORMANCE
+
+Implement professional SEO.
+
+Include:
+
+- Page titles
+- Meta descriptions
+- Open Graph tags
+- Twitter metadata
+- Sitemap.xml
+- Robots.txt
+- Canonical URLs
+- Semantic HTML
+- Proper heading structure
+- Image alt attributes
+- Structured data where appropriate
+
+Performance:
+
+- Lazy loading
+- Code splitting
+- Route-based loading
+- Image optimization
+- Three.js optimization
+- Efficient React rendering
+- Avoid unnecessary re-renders
+- Bundle size optimization
+
+Accessibility:
+
+- Keyboard navigation
+- Proper contrast
+- Accessible forms
+- ARIA labels where necessary
+- Focus indicators
+- Reduced motion support
+
+Aim for excellent Lighthouse scores without sacrificing design quality.
+
+---
+
+# 11. RESPONSIVE DESIGN
+
+Make every page fully responsive.
+
+Test:
+
+- 360px mobile
+- 390px mobile
+- 430px mobile
+- 768px tablet
+- 1024px laptop
+- 1280px desktop
+- 1440px large desktop
+- 1920px wide screen
+
+Ensure:
+
+- No horizontal overflow
+- Proper text scaling
+- Correct image sizing
+- Responsive 3D elements
+- Proper card alignment
+- Mobile-friendly interactions
+- Responsive navigation
+- Consistent spacing
+
+Never simply shrink the desktop layout. Create a carefully adapted mobile experience.
+
+---
+
+# 12. PROJECT FOLDER STRUCTURE
+
+Use a clean monorepo-style structure:
+
+portfolio/
+│
+├── client/
+│   ├── public/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   │   ├── common/
+│   │   │   ├── layout/
+│   │   │   ├── sections/
+│   │   │   ├── ui/
+│   │   │   ├── 3d/
+│   │   │   └── admin/
+│   │   ├── pages/
+│   │   ├── routes/
+│   │   ├── hooks/
+│   │   ├── context/
+│   │   ├── services/
+│   │   ├── utils/
+│   │   ├── styles/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   └── package.json
+│
+├── server/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   ├── utils/
+│   ├── validators/
+│   ├── scripts/
+│   ├── app.js
+│   ├── server.js
+│   └── package.json
+│
+├── .gitignore
+└── README.md
+
+You may improve this architecture when necessary, but keep frontend and backend clearly separated.
+
+Use reusable components and modular backend controllers.
+
+---
+
+# 13. ENVIRONMENT VARIABLES
+
+Create separate environment examples.
+
+Client:
+
+VITE_API_URL=
+
+Server:
+
+PORT=
+NODE_ENV=
+CLIENT_URL=
+MONGODB_URI=
+JWT_SECRET=
+COOKIE_SECRET=
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+EMAIL_USER=
+EMAIL_PASS=
+
+Add appropriate environment examples to the README.
+
+Never commit actual credentials.
+
+Ensure all secret variables remain server-side.
+
+---
+
+# 14. ERROR HANDLING & TESTING
+
+Implement proper error handling.
+
+Frontend:
+
+- Loading states
+- Empty states
+- Error boundaries
+- API failure messages
+- Form validation
+- Network error handling
+
+Backend:
+
+- Central error middleware
+- Validation errors
+- Authentication errors
+- Database errors
+- Not-found responses
+- Consistent API response structure
+
+Testing:
+
+- Test important backend API endpoints.
+- Test authentication.
+- Test protected routes.
+- Test CRUD operations.
+- Test contact form submission.
+- Test image uploads.
+- Test mobile responsiveness.
+- Test theme switching.
+- Test navigation.
+- Test all buttons and links.
+
+Use appropriate testing tools such as Vitest, React Testing Library, and Supertest.
+
+Do not claim a feature works until it has actually been tested.
+
+---
+
+# 15. DEPLOYMENT & DOCUMENTATION
+
+Prepare the complete application for deployment.
+
+Frontend:
+- Build production bundle.
+- Configure frontend environment variables.
+- Deploy to Vercel or Netlify.
+
+Backend:
+- Configure production environment.
+- Deploy Express server.
+- Configure CORS.
+- Configure secure cookies and HTTPS.
+- Connect MongoDB Atlas.
+
+Database:
+- Create production database.
+- Configure database access securely.
+- Create indexes.
+- Seed the initial admin account securely.
+
+Documentation:
+
+Create a professional README containing:
+
+- Project overview
+- Screenshots
+- Features
+- Technologies
+- Installation instructions
+- Frontend setup
+- Backend setup
+- MongoDB configuration
+- Environment variables
+- Admin account creation
+- API documentation
+- Deployment guide
+
+---
+
+# 16. PERSONAL INFORMATION CONFIGURATION
+
+Use the following placeholders.
+
+Full Name: [YOUR FULL NAME]
+
+Professional Title: Frontend Developer & Full-Stack Developer
+
+Location: [YOUR LOCATION]
+
+Email: [YOUR EMAIL]
+
+GitHub: [YOUR GITHUB URL]
+
+LinkedIn: [YOUR LINKEDIN URL]
+
+WhatsApp: [YOUR WHATSAPP NUMBER]
+
+Resume: [YOUR RESUME URL]
+
+Profile Image: [YOUR PROFILE IMAGE]
+
+Portfolio Domain: [YOUR DOMAIN]
+
+Biography: [YOUR PROFESSIONAL BIOGRAPHY]
+
+Keep these values editable through the admin dashboard wherever appropriate.
+
+Never invent personal achievements, employment history, client names, certifications, or project links.
+
+---
+
+# 17. DEVELOPMENT WORKFLOW
+
+IMPORTANT: Build the complete application phase by phase.
+
+Do not generate the entire project in one response.
+
+### PHASE 1 — Planning & Architecture
+
+- Analyze all requirements.
+- Define application architecture.
+- Create folder structure.
+- Define dependencies.
+- Define database schemas.
+- Define API architecture.
+- Establish design tokens.
+
+### PHASE 2 — Project Setup
+
+- Create React + Vite application.
+- Configure Tailwind CSS.
+- Configure React Router.
+- Set up Express backend.
+- Connect MongoDB.
+- Configure environment variables.
+
+### PHASE 3 — Design System
+
+- Build theme provider.
+- Implement light and dark modes.
+- Create typography system.
+- Create reusable buttons.
+- Create cards.
+- Create navigation.
+- Create layout components.
+
+### PHASE 4 — Frontend Development
+
+- Navigation
+- Hero
+- About
+- Skills
+- Services
+- Projects
+- Experience
+- Education
+- Testimonials
+- Contact
+- Footer
+
+### PHASE 5 — 3D & Animations
+
+- Three.js setup.
+- React Three Fiber components.
+- Interactive hero.
+- Motion system.
+- Scroll animations.
+- Page transitions.
+- Performance optimization.
+
+### PHASE 6 — Backend Development
+
+- Express configuration.
+- MongoDB connection.
+- Mongoose models.
+- Controllers.
+- API routes.
+- Validation.
+- Error middleware.
+
+### PHASE 7 — Authentication
+
+- Admin login.
+- Secure cookies.
+- Password hashing.
+- Protected routes.
+- Authorization middleware.
+
+### PHASE 8 — Admin Dashboard
+
+- Dashboard overview.
+- Project CRUD.
+- Skills management.
+- Services management.
+- Experience management.
+- Education management.
+- Testimonials management.
+- Contact messages.
+- Portfolio settings.
+
+### PHASE 9 — Integration
+
+- Connect frontend to APIs.
+- Fetch dynamic content.
+- Connect contact form.
+- Implement Cloudinary.
+- Test all CRUD operations.
+
+### PHASE 10 — Testing & Optimization
+
+- Fix all errors.
+- Test responsive layouts.
+- Test animations.
+- Test authentication.
+- Test database operations.
+- Optimize performance.
+- Improve accessibility.
+- Complete SEO.
+
+### PHASE 11 — Deployment
+
+- Configure production.
+- Deploy frontend.
+- Deploy backend.
+- Connect MongoDB Atlas.
+- Configure Cloudinary.
+- Verify production APIs.
+- Document the complete setup.
+
+---
+
+# 18. STRICT DEVELOPMENT RULES
+
+1. Use JavaScript only.
+2. Do not use TypeScript.
+3. Do not use fake backend functionality.
+4. Do not use localStorage as a replacement for the database.
+5. Do not hardcode dynamic projects.
+6. Fetch portfolio content from MongoDB through APIs.
+7. Use reusable React components.
+8. Keep backend logic separate from frontend logic.
+9. Never expose secrets.
+10. Never create insecure authentication.
+11. Ensure every button works.
+12. Ensure every form works.
+13. Avoid unnecessary dependencies.
+14. Maintain consistent design.
+15. Avoid oversized components.
+16. Use proper error handling.
+17. Test before declaring completion.
+18. Never leave important features as nonfunctional placeholders.
+19. Use realistic demo content only when clearly marked.
+20. Do not skip implementation phases.
+
+---
+
+# 19. FINAL ACCEPTANCE CRITERIA
+
+The project is complete only when:
+
+- The portfolio has a premium futuristic design.
+- Both light and dark themes work.
+- The 3D hero is interactive.
+- Animations are smooth.
+- All pages are responsive.
+- All sections are properly aligned.
+- Projects are fetched from MongoDB.
+- Backend APIs work.
+- Contact form submits successfully.
+- Contact messages are stored.
+- Admin authentication works securely.
+- Admin dashboard works.
+- Project CRUD works.
+- Skills CRUD works.
+- Services CRUD works.
+- Experience and education management works.
+- Image uploads work.
+- Resume upload works.
+- SEO metadata is implemented.
+- No critical console errors remain.
+- No broken routes remain.
+- Production deployment is documented.
+
+# FINAL COMMAND
+
+Start by analyzing the requirements and presenting:
+
+1. Complete architecture.
+2. Recommended dependencies.
+3. Database schema.
+4. API endpoint structure.
+5. Folder structure.
+6. Design system.
+7. Color palette.
+8. Animation strategy.
+9. Development roadmap.
+
+After presenting the architecture, begin Phase 1 and continue step by step.
+
+Do not stop at design mockups.
+
+Build a complete, real, production-oriented MERN Stack application.
+
+The final experience must feel like a premium, futuristic digital identity for a highly skilled Frontend and Full-Stack Developer.
+
+**Design Excellence + Functional Engineering + Secure Backend + Premium 3D Experience = Final Goal.**

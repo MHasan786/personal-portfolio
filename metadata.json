@@ -1,0 +1,6 @@
+{
+  "name": "Nexus 3D Developer Portfolio",
+  "description": "Futuristic 3D interactive full-stack developer portfolio and content management system featuring React, Express, MongoDB persistence, and Three.js visual computing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
